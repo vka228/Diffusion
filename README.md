@@ -1,5 +1,7 @@
 # Diffusion Simulation
 
+![bebememe](for_git_correct.gif)
+
 ## Overview
 This project simulates the diffusion of particles in air using a particle-based physics model. The simulation tracks the movement and collisions of molecule of interest and air molecules in a 2D space, visualizing the random walk behavior and calculating diffusion coefficients.
 
